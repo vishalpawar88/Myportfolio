@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ease",
+				"easeInOut"
+			],
+			[
+				"opac",
+				"opacity\t = '' Style CSS"
+			],
+			[
+				"clie",
+				"clientY"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tim",
+				"timeout\t XMLHttpRequest"
+			],
+			[
+				"cir",
+				"circleMouseFollower"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"st",
+				"stagger\tstagger"
+			],
+			[
+				"translate",
+				"translateY()\ttransform"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"met",
+				"meta\t<meta name=\"\" content=\"\">"
+			],
+			[
+				"ci",
+				"circlemousefollower"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"sc",
+				"script\tHTML - Script"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"gap",
+				"grid-gap\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"bordertop",
+				"border-top\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"a",
+				"a\tHTML - Anchor"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"nav",
+				"nav2\tHTML - Navigation object"
+			],
+			[
+				"ma",
+				"main\t<main>"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"h",
+				"h\t<h1> - <h6>"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"bo",
+				"bold\tfont-weight"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"ani",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"e",
+				"ease-in-out\ttransition-timing-function"
+			],
+			[
+				"ea",
+				"ease-out\ttransition-timing-function"
+			],
+			[
+				"tra",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"content\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"bode",
+				"border-width\tproperty"
+			],
+			[
+				"d",
+				"d1"
+			],
+			[
+				"borderbo",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"bor",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"re",
+				"repeat\tbackground-repeat"
+			],
+			[
+				"backg",
+				"background-clip\tproperty"
+			],
+			[
+				"rep",
+				"background-repeat"
+			],
+			[
+				"la",
+				"xx-large\tfont-size"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"large",
+				"larger\tfont-size"
+			],
+			[
+				"ge",
+				"green"
+			],
+			[
+				"lorem",
+				"Lorem"
+			],
+			[
+				"p",
+				"para"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html xml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html ",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SVE/OneDrive/Documents/My Portfolio/index.html",
+		"/C/Users/SVE/OneDrive/Documents/Responsive-Animated-and-Colourful-Portfolio-main/script.js",
+		"/C/Users/SVE/OneDrive/Documents/Responsive-Animated-and-Colourful-Portfolio-main/style.css",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Project 1/index.html",
+		"/C/Users/SVE/OneDrive/Documents/Responsive-Animated-and-Colourful-Portfolio-main/index.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Project 1/script.js",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Project 1/style.css",
+		"/C/Users/SVE/OneDrive/Desktop/GrapplTech-Community-Built-Web-Components/.git/index",
+		"/C/Users/SVE/OneDrive/Desktop/GrapplTech-Community-Built-Web-Components/.git/hooks/pre-rebase.sample",
+		"/C/Users/SVE/OneDrive/Desktop/Javascript/New folder/index.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/resume.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/background.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder/index.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/bgimage.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/PositionProperty.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/borderproperty.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/TransformPropertyhtml.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder (2)/marvel.css",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder (3)/functioninjs.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder (3)/js.html",
+		"/C/Users/SVE/OneDrive/Documents/department1.java",
+		"/C/Users/SVE/pattern10.java",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder (2)/movies.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Simple Ludo Game using JavaScript/script.js",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/animationproperty2.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/animationproperty.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/transitionproperty1.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/before-after.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder/psudo-element selection and marker.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder/pseudocode.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder/script.js",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/New folder/ludo.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Simple Ludo Game using JavaScript/index.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/textproperty.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/username.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/pincode.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Validationform.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Registration1.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/Registration.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/program1.html",
+		"/C/Users/SVE/OneDrive/Desktop/java/Laptop/bagdriver.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/Bouncy.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/Demo.html",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern9.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/New folder (2)/empconstructor.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/d1.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern7.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/Pattern0.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/diamond1.java",
+		"/C/Users/SVE/OneDrive/Desktop/Javascript/Constructorfunc.html",
+		"/C/Users/SVE/AppData/Local/Microsoft/Windows/INetCache/IE/763QUNL4/Cv_Me[2].pdf",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/script.js",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/ludo.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/index.html",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/style.css",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/s.js",
+		"/C/Users/SVE/OneDrive/Desktop/webtech/LUDO-master/nginx/Dockerfile",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern8.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern5.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern4.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/Pattern00.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/perfectno.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern1.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern2.java",
+		"/C/Users/SVE/OneDrive/Desktop/java/pattern/pattern3.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\SVE\\OneDrive\\Desktop\\webtech\\Project 1\\script.js"
+			],
+			[
+				"f",
+				"C:\\Users\\SVE\\OneDrive\\Desktop\\webtech\\font.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
